@@ -1,0 +1,11 @@
+{
+  "name": "file-metadata-microservice",
+  "version": "1.0.0",
+  "description": "A microservice that displays metadata for an uploaded file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Fabiani",
+  "license": "ISC"
+}
