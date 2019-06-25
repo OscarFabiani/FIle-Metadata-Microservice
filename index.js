@@ -34,4 +34,6 @@ app.listen(3000, function () {
   console.log('Node.js listening on port 3000');
 });
 
+
 //POSSIBLY REWORK HTML AND CSS
+//POSSIBLY INCORPORATE ES6 IMPORT SYNTAX
